@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/barrel.png</file>
+        <file>pics/bluestone.png</file>
+        <file>pics/colorstone.png</file>
+        <file>pics/eagle.png</file>
+        <file>pics/greenlight.png</file>
+        <file>pics/greystone.png</file>
+        <file>pics/mossy.png</file>
+        <file>pics/pillar.png</file>
+        <file>pics/purplestone.png</file>
+        <file>pics/redbrick.png</file>
+        <file>pics/wood.png</file>
+        <file>pics/wall.jpg</file>
+        <file>pics/wall2.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
